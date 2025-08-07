@@ -1,15 +1,30 @@
-<!Doctype html>
+<!DOCTYPE html>
 <html>
  <head>
   <title>
-   Paragraph tag
+   HTML Lists Example
   </title>
  </head>
  <body>
-  <h1>Paragraph</h1>
-  <p>This is a paragraph.<br>Adding a line break here for demonstation.</p>
-  <br>
-  <p>This is another paragraph.</br>Here's another link break within this paragraph.</p>
-  </br>
+  <h2>Ordered List(Numbered)</h2>
+  <ol>
+    <li>Rice</li>
+    <li>Sugar</li>
+    <li>Dal</li>
+  </ol>
+  <h2>Unordered List(Bullet Points)</h2>
+  <ul>
+   <li>Apple</li>
+   <li>Orange</li>
+   <li>Banana</li>
+ </ul>
+ <h2>Definition List (items)</h2>
+ <dl> 
+    <dt>Potato</dt>
+     <dd>A starchy vegetable commonly used incoocking.<dd>
+    <dt>Brinjal</dt>
+     <dd>Also known as eggplant,a versatile vegetable used in various dishes.</dd>
+</dl>
 </body>
 </html>
+  
